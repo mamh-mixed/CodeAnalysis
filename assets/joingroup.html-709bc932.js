@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f6077552","path":"/en/community/joingroup.html","title":"加入社区","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1713418249000,"contributors":[{"name":"Kylin","email":"ye_whu170@163.com","commits":1}]},"filePathRelative":"en/community/joingroup.md"}');export{t as data};
